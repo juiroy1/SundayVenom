@@ -13,7 +13,7 @@ public class DataType {
 	    
 	    System.out.println(c);
 	    
-	    short e = 12345;
+	    short e = 145;
 	    long I =12345678l;
 	    byte g = 123;
 	    float h =1.2345f;
